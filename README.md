@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563eb&height=190&section=header&text=Lucas%20Curto&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Projetos%20web%20%7C%20APIs%20%7C%20Cosmetics%20Hub&descAlignY=58&descSize=18" alt="Lucas Curto" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563eb&height=190&section=header&text=Lucas%20Curto&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Desenvolvimento%20web%20%7C%20APIs%20%7C%20Python%20%7C%20TypeScript&descAlignY=58&descSize=18" alt="Lucas Curto" />
 </div>
 
 <div align="center">
@@ -9,73 +9,26 @@
 
 <br>
 
-<p align="center">
-  <strong>Cosmetics Hub</strong><br>
-  MVP de gestão comercial para empresas de cosméticos
-</p>
+<h2 align="center">Competências e tecnologias</h2>
 
 <p align="center">
-  <a href="https://github.com/lc-curto/distribution-hub-api"><img src="https://img.shields.io/badge/API-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="API FastAPI" /></a>
-  <a href="https://github.com/lc-curto/distribution-hub-web"><img src="https://img.shields.io/badge/Web-React%20%2B%20TypeScript-3178C6?style=flat-square&logo=react&logoColor=white" alt="Web React e TypeScript" /></a>
+  Tecnologias e áreas presentes nos meus projetos públicos.
 </p>
-
-## Cosmetics Hub
-
-O projeto está dividido entre uma API e uma aplicação web. A documentação registra o escopo, a arquitetura, os requisitos e as próximas etapas.
-
-| Repositório | Estado documentado |
-| --- | --- |
-| [distribution-hub-api](https://github.com/lc-curto/distribution-hub-api) | API com `GET /health`, teste automatizado e PostgreSQL configurado para desenvolvimento local. |
-| [distribution-hub-web](https://github.com/lc-curto/distribution-hub-web) | Frontend em formato de scaffold. |
-
-O roadmap começa pela preparação do ambiente e pela execução local da API. Autenticação, empresas, clientes, catálogo, estoque, pedidos e recebíveis estão especificados, mas ainda não são funcionalidades implementadas.
-
-## Tecnologias dos projetos
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,typescript,react,html,css,postgresql,docker,git,github,vscode&perline=11" alt="Python, FastAPI, TypeScript, React, HTML, CSS, PostgreSQL, Docker, Git, GitHub e VS Code" />
 </div>
 
-## Projetos
+<br>
 
-<table>
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/lc-curto/distribution-hub-api">Distribution Hub API</a></h3>
-      <p>Backend em FastAPI para o Cosmetics Hub, com documentação de produto, domínio, requisitos, arquitetura e roadmap.</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Docker</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/lc-curto/distribution-hub-web">Distribution Hub Web</a></h3>
-      <p>Frontend do Cosmetics Hub, mantido em um repositório separado.</p>
-      <p><code>React</code> <code>TypeScript</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/lc-curto/Portifolio">Portifolio</a></h3>
-      <p>Portfólio público em HTML e CSS.</p>
-      <p><code>HTML</code> <code>CSS</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/lc-curto?tab=repositories">Todos os repositórios</a></h3>
-      <p>Veja os projetos públicos e acompanhe as próximas atualizações.</p>
-    </td>
+    <td align="center" width="25%"><strong>Frontend</strong><br>React<br>TypeScript<br>HTML<br>CSS</td>
+    <td align="center" width="25%"><strong>Backend</strong><br>Python<br>FastAPI<br>APIs</td>
+    <td align="center" width="25%"><strong>Dados e ambiente</strong><br>PostgreSQL<br>Docker</td>
+    <td align="center" width="25%"><strong>Ferramentas</strong><br>Git<br>GitHub<br>VS Code</td>
   </tr>
 </table>
-
-## Como o projeto está sendo desenvolvido
-
-O roadmap do Cosmetics Hub segue este ciclo:
-
-```text
-entender → observar → praticar → explicar → aplicar → testar → documentar
-```
-
-A próxima evolução prevista começa pela base do sistema: ambiente local, banco de dados, migrations, primeiro modelo e depois o fluxo de clientes, sempre com validação e testes.
-
-- [Roadmap de aprendizagem e desenvolvimento](https://github.com/lc-curto/distribution-hub-api/blob/main/docs/learning-roadmap.md)
-- [Documentação consolidada](https://github.com/lc-curto/distribution-hub-api/tree/main/docs)
 
 ## GitHub em números
 
@@ -86,7 +39,29 @@ A próxima evolução prevista começa pela base do sistema: ambiente local, ban
   </a>
 </div>
 
-<br>
+## Projetos públicos
+
+### Cosmetics Hub
+
+MVP de gestão comercial para empresas de cosméticos, dividido entre uma API e uma aplicação web.
+
+- [distribution-hub-api](https://github.com/lc-curto/distribution-hub-api) — backend em FastAPI, com documentação de produto, domínio, requisitos, arquitetura e roadmap.
+- [distribution-hub-web](https://github.com/lc-curto/distribution-hub-web) — frontend em React e TypeScript.
+
+**Estado documentado:** a API possui `GET /health`, teste automatizado e PostgreSQL configurado para desenvolvimento local. O frontend está em formato de scaffold. Os demais módulos descritos na documentação ainda não estão implementados.
+
+### Portifolio
+
+Portfólio público desenvolvido em HTML e CSS.
+
+- [Acessar o repositório Portifolio](https://github.com/lc-curto/Portifolio)
+
+## Roadmap
+
+O roadmap do projeto registra as próximas etapas de estudo e desenvolvimento, começando pela preparação do ambiente e execução local da API.
+
+- [Roadmap de aprendizagem e desenvolvimento](https://github.com/lc-curto/distribution-hub-api/blob/main/docs/learning-roadmap.md)
+- [Documentação consolidada](https://github.com/lc-curto/distribution-hub-api/tree/main/docs)
 
 <div align="center">
   <a href="https://github.com/lc-curto"><img src="https://img.shields.io/badge/Ver%20perfil%20completo-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Ver perfil completo no GitHub" /></a>
