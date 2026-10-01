@@ -9,23 +9,26 @@
 
 <br>
 
-<h1 align="center">Olá, eu sou Lucas Curto</h1>
-
 <p align="center">
-  Projeto principal: <strong>Cosmetics Hub</strong> — um MVP de gestão comercial para empresas de cosméticos.
+  <strong>Cosmetics Hub</strong><br>
+  MVP de gestão comercial para empresas de cosméticos
 </p>
 
-## Foco atual
+<p align="center">
+  <a href="https://github.com/lc-curto/distribution-hub-api"><img src="https://img.shields.io/badge/API-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="API FastAPI" /></a>
+  <a href="https://github.com/lc-curto/distribution-hub-web"><img src="https://img.shields.io/badge/Web-React%20%2B%20TypeScript-3178C6?style=flat-square&logo=react&logoColor=white" alt="Web React e TypeScript" /></a>
+</p>
 
-O projeto principal é o **Cosmetics Hub**, um MVP de gestão comercial para empresas de cosméticos. A documentação organiza o trabalho em etapas pequenas de estudo, implementação, teste e revisão.
+## Cosmetics Hub
 
-**Estado documentado:**
+O projeto está dividido entre uma API e uma aplicação web. A documentação registra o escopo, a arquitetura, os requisitos e as próximas etapas.
 
-- A API possui atualmente `GET /health`, com teste automatizado.
-- O frontend está em formato de scaffold.
-- O PostgreSQL está configurado para desenvolvimento local.
-- Autenticação, empresas, clientes, catálogo, estoque, pedidos e recebíveis estão especificados, mas ainda não são funcionalidades implementadas.
-- A etapa atual do roadmap é preparar o ambiente e executar a API localmente.
+| Repositório | Estado documentado |
+| --- | --- |
+| [distribution-hub-api](https://github.com/lc-curto/distribution-hub-api) | API com `GET /health`, teste automatizado e PostgreSQL configurado para desenvolvimento local. |
+| [distribution-hub-web](https://github.com/lc-curto/distribution-hub-web) | Frontend em formato de scaffold. |
+
+O roadmap começa pela preparação do ambiente e pela execução local da API. Autenticação, empresas, clientes, catálogo, estoque, pedidos e recebíveis estão especificados, mas ainda não são funcionalidades implementadas.
 
 ## Tecnologias dos projetos
 
