@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Lucas Curto — web, APIs e dados</title>
+  <desc id="desc">Banner editorial com as letras LC e as palavras web, APIs e dados.</desc>
+  <rect width="1200" height="320" rx="24" fill="#101828"/>
+  <rect x="0" y="0" width="18" height="320" fill="#f2c94c"/>
+  <rect x="1015" y="0" width="185" height="320" fill="#2f80ed"/>
+  <circle cx="1038" cy="45" r="17" fill="#f2c94c"/>
+  <circle cx="1090" cy="45" r="17" fill="#eb5757"/>
+  <circle cx="1142" cy="45" r="17" fill="#27ae60"/>
+  <text x="80" y="105" fill="#f2c94c" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="5">LC / 01</text>
+  <text x="80" y="190" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700">Lucas Curto</text>
+  <text x="83" y="240" fill="#b8c4d6" font-family="Arial, Helvetica, sans-serif" font-size="24" letter-spacing="2">WEB  /  APIs  /  DADOS</text>
+  <path d="M80 270 H930" stroke="#334155" stroke-width="2"/>
+  <text x="80" y="300" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="16">interfaces na frente · lógica no meio · dados por baixo</text>
+</svg>
