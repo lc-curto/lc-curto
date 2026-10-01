@@ -9,6 +9,10 @@
 
 <br>
 
+## Sobre
+
+Meus projetos envolvem desenvolvimento web, criação de APIs e organização de sistemas do frontend ao backend. No GitHub, compartilho aplicações em React e TypeScript, APIs em Python e FastAPI e estudos relacionados a arquitetura, banco de dados e desenvolvimento incremental.
+
 <h2 align="center">Competências e tecnologias</h2>
 
 <p align="center">
