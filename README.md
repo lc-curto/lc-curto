@@ -1,19 +1,29 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563eb&height=190&section=header&text=Lucas%20Curto&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Frontend%20%E2%80%A2%20Backend%20%E2%80%A2%20APIs%20%E2%80%A2%20Dados&descAlignY=58&descSize=18" alt="Lucas Curto" />
-</div>
+<p align="center">
+  <img src="./tech-banner.svg" alt="Lucas Curto — frontend, API e data" />
+</p>
 
-<div align="center">
-  <a href="https://github.com/lc-curto"><img src="https://img.shields.io/badge/GitHub-lc--curto-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub lc-curto" /></a>
-  <a href="https://github.com/lc-curto?tab=repositories"><img src="https://img.shields.io/badge/4%20reposit%C3%B3rios%20p%C3%BAblicos-2563eb?style=flat-square&labelColor=111827" alt="4 repositórios públicos" /></a>
-</div>
+<p align="center">
+  <a href="https://github.com/lc-curto"><img src="https://img.shields.io/badge/GITHUB-lc--curto-0b1020?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub lc-curto" /></a>
+  <a href="https://github.com/lc-curto?tab=repositories"><img src="https://img.shields.io/badge/REPOS-04-0b1020?style=for-the-badge&labelColor=0b1020&color=8b5cf6" alt="4 repositórios públicos" /></a>
+</p>
 
 <br>
 
-## Sobre mim
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h2>Construindo por camadas</h2>
+      <p>Interfaces na superfície. APIs na estrutura. Dados na base.</p>
+      <p>Meus projetos conectam frontend, backend e ambiente local em sistemas que podem ser entendidos, executados e evoluídos.</p>
+    </td>
+    <td width="45%" valign="top">
+      <h3>COMPETÊNCIAS</h3>
+      <p><code>React</code> <code>TypeScript</code><br><code>Python</code> <code>FastAPI</code><br><code>PostgreSQL</code> <code>Docker</code><br><code>Git</code> <code>GitHub</code></p>
+    </td>
+  </tr>
+</table>
 
-Meus projetos percorrem as duas pontas de um produto: a interface que o usuário vê e a API que sustenta os fluxos por trás dela. Hoje, essa base aparece em React e TypeScript no frontend, Python e FastAPI no backend, PostgreSQL nos dados e Docker no ambiente local.
-
-## Competências e tecnologias
+## SYSTEM / STACK
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,typescript,react,html,css,postgresql,docker,git,github,vscode&perline=11" alt="Python, FastAPI, TypeScript, React, HTML, CSS, PostgreSQL, Docker, Git, GitHub e VS Code" />
@@ -21,51 +31,50 @@ Meus projetos percorrem as duas pontas de um produto: a interface que o usuário
 
 <br>
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><strong>Frontend</strong><br><sub>React<br>TypeScript<br>HTML<br>CSS</sub></td>
-    <td align="center" width="25%"><strong>Backend</strong><br><sub>Python<br>FastAPI<br>APIs HTTP</sub></td>
-    <td align="center" width="25%"><strong>Dados</strong><br><sub>PostgreSQL<br>modelagem<br>persistência</sub></td>
-    <td align="center" width="25%"><strong>Ferramentas</strong><br><sub>Docker<br>Git<br>GitHub<br>VS Code</sub></td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/lc-curto/distribution-hub-web"><img src="https://img.shields.io/badge/FRONTEND-REACT%20%2B%20TYPESCRIPT-22d3ee?style=for-the-badge&labelColor=0b1020&logo=react&logoColor=22d3ee" alt="Frontend React e TypeScript" /></a>
+  <a href="https://github.com/lc-curto/distribution-hub-api"><img src="https://img.shields.io/badge/BACKEND-PYTHON%20%2B%20FASTAPI-8b5cf6?style=for-the-badge&labelColor=0b1020&logo=fastapi&logoColor=8b5cf6" alt="Backend Python e FastAPI" /></a>
+  <a href="https://github.com/lc-curto/distribution-hub-api"><img src="https://img.shields.io/badge/DATA-POSTGRESQL-ec4899?style=for-the-badge&labelColor=0b1020&logo=postgresql&logoColor=ec4899" alt="Dados PostgreSQL" /></a>
+</div>
 
-## Na prática
+## CURRENT BUILD / COSMETICS HUB
 
-O ponto de partida atual é uma API que roda localmente, responde a `GET /health` e possui teste automatizado. A partir dessa base, o roadmap organiza a evolução por etapas: ambiente, banco de dados, identidade, empresas e clientes.
+MVP de gestão comercial para empresas de cosméticos, dividido em uma API e uma aplicação web.
 
-Isso mantém o perfil alinhado ao estado real dos projetos: o que está funcionando aparece como funcionando; o que está planejado aparece como planejado.
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3><a href="https://github.com/lc-curto/distribution-hub-api">API</a></h3>
+        <p><code>GET /health</code> disponível<br>teste automatizado<br>PostgreSQL configurado para desenvolvimento local</p>
+        <img src="https://img.shields.io/badge/STATUS-BASE%20FUNCIONAL-22c55e?style=flat-square&labelColor=0b1020" alt="Base funcional" />
+      </td>
+      <td width="50%" valign="top">
+        <h3><a href="https://github.com/lc-curto/distribution-hub-web">WEB</a></h3>
+        <p>React + TypeScript<br>frontend separado<br>scaffold inicial</p>
+        <img src="https://img.shields.io/badge/STATUS-SCAFFOLD-f59e0b?style=flat-square&labelColor=0b1020" alt="Scaffold inicial" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-## Projetos públicos
+O escopo documentado inclui empresas, clientes, catálogo, estoque, pedidos e recebíveis. O [roadmap](https://github.com/lc-curto/distribution-hub-api/blob/main/docs/learning-roadmap.md) registra a sequência de desenvolvimento e diferencia funcionalidades implementadas das que ainda estão especificadas.
 
-### Cosmetics Hub
+## SELECTED / PROJECTS
 
-MVP de gestão comercial para empresas de cosméticos, dividido entre uma API e uma aplicação web.
+- [**distribution-hub-api**](https://github.com/lc-curto/distribution-hub-api) · backend, documentação de produto, domínio, requisitos e arquitetura.
+- [**distribution-hub-web**](https://github.com/lc-curto/distribution-hub-web) · frontend em React e TypeScript.
+- [**Portifolio**](https://github.com/lc-curto/Portifolio) · portfólio público em HTML e CSS.
 
-- [**distribution-hub-api**](https://github.com/lc-curto/distribution-hub-api) — backend em FastAPI, com documentação de produto, domínio, requisitos, arquitetura e roadmap.
-- [**distribution-hub-web**](https://github.com/lc-curto/distribution-hub-web) — frontend em React e TypeScript.
-
-**Estado documentado:** a API possui `GET /health`, teste automatizado e PostgreSQL configurado para desenvolvimento local. O frontend está em formato de scaffold. Os demais módulos descritos na documentação ainda não estão implementados.
-
-### [Portifolio](https://github.com/lc-curto/Portifolio)
-
-Portfólio público desenvolvido em HTML e CSS.
-
-## GitHub em números
+## GITHUB / SIGNALS
 
 <div align="center">
   <a href="https://github.com/lc-curto">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=lc-curto&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub de Lucas Curto" />
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lc-curto&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br&hide_border=true" alt="Linguagens mais usadas por Lucas Curto" />
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=lc-curto&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=22d3ee&text_color=cbd5e1&icon_color=8b5cf6&border_color=334155&bg_color=0b1020&locale=pt-br" alt="Estatísticas do GitHub de Lucas Curto" />
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lc-curto&layout=compact&langs_count=8&theme=transparent&title_color=22d3ee&text_color=cbd5e1&icon_color=8b5cf6&border_color=334155&bg_color=0b1020&locale=pt-br" alt="Linguagens mais usadas por Lucas Curto" />
   </a>
 </div>
 
-<br>
-
-<div align="center">
-  <a href="https://github.com/lc-curto"><img src="https://img.shields.io/badge/Ver%20perfil%20completo-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Ver perfil completo no GitHub" /></a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:111827&height=100&section=footer" alt="" />
-</div>
+<p align="center">
+  <a href="https://github.com/lc-curto"><img src="https://img.shields.io/badge/OPEN%20PROFILE-22d3ee?style=for-the-badge&labelColor=0b1020&logo=github&logoColor=22d3ee" alt="Abrir perfil no GitHub" /></a>
+</p>
