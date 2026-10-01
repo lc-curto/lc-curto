@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./tech-banner.svg" alt="Lucas Curto — frontend, API e data" />
+  <img src="./tech-banner.svg" alt="Lucas Curto — desenvolvedor fullstack" />
 </p>
 
 <p align="center">
@@ -12,9 +12,9 @@
 <table>
   <tr>
     <td width="55%" valign="top">
-      <h2>Construindo por camadas</h2>
+      <h2>Desenvolvedor fullstack</h2>
       <p>Interfaces na superfície. APIs na estrutura. Dados na base.</p>
-      <p>Meus projetos conectam frontend, backend e ambiente local em sistemas que podem ser entendidos, executados e evoluídos.</p>
+      <p>Atuo nas duas pontas do desenvolvimento: construo a interface, estruturo o backend e conecto os dados em sistemas que podem ser executados e evoluídos.</p>
     </td>
     <td width="45%" valign="top">
       <h3>COMPETÊNCIAS</h3>
@@ -23,7 +23,7 @@
   </tr>
 </table>
 
-## SYSTEM / STACK
+## STACK / COMPETÊNCIAS
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,typescript,react,html,css,postgresql,docker,git,github,vscode&perline=11" alt="Python, FastAPI, TypeScript, React, HTML, CSS, PostgreSQL, Docker, Git, GitHub e VS Code" />
@@ -34,10 +34,10 @@
 <div align="center">
   <a href="https://github.com/lc-curto/distribution-hub-web"><img src="https://img.shields.io/badge/FRONTEND-REACT%20%2B%20TYPESCRIPT-22d3ee?style=for-the-badge&labelColor=0b1020&logo=react&logoColor=22d3ee" alt="Frontend React e TypeScript" /></a>
   <a href="https://github.com/lc-curto/distribution-hub-api"><img src="https://img.shields.io/badge/BACKEND-PYTHON%20%2B%20FASTAPI-8b5cf6?style=for-the-badge&labelColor=0b1020&logo=fastapi&logoColor=8b5cf6" alt="Backend Python e FastAPI" /></a>
-  <a href="https://github.com/lc-curto/distribution-hub-api"><img src="https://img.shields.io/badge/DATA-POSTGRESQL-ec4899?style=for-the-badge&labelColor=0b1020&logo=postgresql&logoColor=ec4899" alt="Dados PostgreSQL" /></a>
+  <a href="https://github.com/lc-curto/distribution-hub-api"><img src="https://img.shields.io/badge/DADOS-POSTGRESQL-ec4899?style=for-the-badge&labelColor=0b1020&logo=postgresql&logoColor=ec4899" alt="Dados PostgreSQL" /></a>
 </div>
 
-## CURRENT BUILD / COSMETICS HUB
+## PROJETO ATUAL / COSMETICS HUB
 
 MVP de gestão comercial para empresas de cosméticos, dividido em uma API e uma aplicação web.
 
@@ -60,13 +60,13 @@ MVP de gestão comercial para empresas de cosméticos, dividido em uma API e uma
 
 O escopo documentado inclui empresas, clientes, catálogo, estoque, pedidos e recebíveis. O [roadmap](https://github.com/lc-curto/distribution-hub-api/blob/main/docs/learning-roadmap.md) registra a sequência de desenvolvimento e diferencia funcionalidades implementadas das que ainda estão especificadas.
 
-## SELECTED / PROJECTS
+## PROJETOS
 
 - [**distribution-hub-api**](https://github.com/lc-curto/distribution-hub-api) · backend, documentação de produto, domínio, requisitos e arquitetura.
 - [**distribution-hub-web**](https://github.com/lc-curto/distribution-hub-web) · frontend em React e TypeScript.
 - [**Portifolio**](https://github.com/lc-curto/Portifolio) · portfólio público em HTML e CSS.
 
-## GITHUB / SIGNALS
+## ESTATÍSTICAS DO GITHUB
 
 <div align="center">
   <a href="https://github.com/lc-curto">
@@ -76,5 +76,5 @@ O escopo documentado inclui empresas, clientes, catálogo, estoque, pedidos e re
 </div>
 
 <p align="center">
-  <a href="https://github.com/lc-curto"><img src="https://img.shields.io/badge/OPEN%20PROFILE-22d3ee?style=for-the-badge&labelColor=0b1020&logo=github&logoColor=22d3ee" alt="Abrir perfil no GitHub" /></a>
+  <a href="https://github.com/lc-curto"><img src="https://img.shields.io/badge/VER%20PERFIL-22d3ee?style=for-the-badge&labelColor=0b1020&logo=github&logoColor=22d3ee" alt="Ver perfil no GitHub" /></a>
 </p>
