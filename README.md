@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./tech-banner.svg" alt="Lucas Curto — fullstack developer" />
+  <img src="./tech-banner-en.svg" alt="Lucas Curto — fullstack developer" />
 </p>
 
 <p align="center">
