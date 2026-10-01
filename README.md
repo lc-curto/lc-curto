@@ -42,10 +42,6 @@ The current state is intentionally small. The [roadmap](https://github.com/lc-cu
   <img src="https://skillicons.dev/icons?i=python,fastapi,typescript,react,html,css,postgresql,docker,git,github,vscode&perline=11" alt="Python, FastAPI, TypeScript, React, HTML, CSS, PostgreSQL, Docker, Git, GitHub and VS Code" />
 </div>
 
-## OTHER PROJECTS
-
- 
-
 ## EDUCATION
 
 Training in software development with a focus on fullstack web: algorithms, object-oriented programming, SQL and NoSQL databases, frontend and backend development, frameworks, quality assurance, design patterns, UML, and web and mobile projects.
