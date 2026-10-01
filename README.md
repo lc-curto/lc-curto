@@ -9,9 +9,11 @@
 
 <br>
 
-## Sobre
+## Começo pelo `/health`
 
-Meus projetos envolvem desenvolvimento web, criação de APIs e organização de sistemas do frontend ao backend. No GitHub, compartilho aplicações em React e TypeScript, APIs em Python e FastAPI e estudos relacionados a arquitetura, banco de dados e desenvolvimento incremental.
+Em vez de começar pelo módulo mais vistoso, começo pelo que precisa funcionar: uma API que roda localmente, responde a `GET /health` e tem um teste automatizado.
+
+A partir dessa base, o projeto cresce por camadas — React e TypeScript no frontend, Python e FastAPI no backend, PostgreSQL para os dados e Docker para o ambiente. O objetivo documentado é chegar a um sistema de gestão com empresas, clientes, catálogo, estoque, pedidos e recebíveis, um fluxo de cada vez.
 
 <h2 align="center">Competências e tecnologias</h2>
 
