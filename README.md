@@ -12,7 +12,7 @@ Interfaces on the surface. APIs in the structure. Data at the base.
 
 I work on both ends of development: I build the interface, structure the backend and connect the data into systems that can be run and evolved.
 
-I'm also the founder of a cosmetics distribution company. That's where my current project comes from: I'm building the management software I'd like to have in day-to-day operations.
+I also run a cosmetics distribution company. That's where my current project comes from: I'm building the management software I'd like to have in day-to-day operations.
 
 ## CURRENT PROJECT / COSMETICS HUB
 
