@@ -44,7 +44,7 @@ The current state is intentionally small. The [roadmap](https://github.com/lc-cu
 
 ## OTHER PROJECTS
 
-- [**Portifolio**](https://github.com/lc-curto/Portifolio) · public portfolio in HTML and CSS.
+
 
 ## EDUCATION
 
