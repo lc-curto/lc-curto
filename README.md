@@ -12,12 +12,8 @@
 <h1 align="center">Olá, eu sou Lucas Curto</h1>
 
 <p align="center">
-  Este é o meu espaço para acompanhar projetos públicos, decisões técnicas e a evolução do <strong>Cosmetics Hub</strong>.
+  Projeto principal: <strong>Cosmetics Hub</strong> — um MVP de gestão comercial para empresas de cosméticos.
 </p>
-
-> “Não avance por quantidade de código. Avance quando conseguir explicar a etapa com suas próprias palavras.”
->
-> — princípio registrado no roadmap do Cosmetics Hub
 
 ## Foco atual
 
