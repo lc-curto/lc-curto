@@ -37,9 +37,17 @@
   <a href="https://github.com/lc-curto/distribution-hub-api"><img src="https://img.shields.io/badge/DADOS-POSTGRESQL-ec4899?style=for-the-badge&labelColor=0b1020&logo=postgresql&logoColor=ec4899" alt="Dados PostgreSQL" /></a>
 </div>
 
+## FORMAÇÃO / BASE TÉCNICA
+
+A minha formação combina fundamentos de software com desenvolvimento web fullstack. A grade inclui algoritmos, programação orientada a objetos, bases de dados SQL e NoSQL, desenvolvimento frontend e backend, frameworks, qualidade, padrões de projeto e UML.
+
+Também fazem parte da formação: comunicação e trabalho em equipa, inglês técnico aplicado ao desenvolvimento de software, aplicações móveis nativas para Android e iOS e projeto web e mobile.
+
 ## PROJETO ATUAL / COSMETICS HUB
 
-MVP de gestão comercial para empresas de cosméticos, dividido em uma API e uma aplicação web.
+O **Cosmetics Hub** é um MVP de gestão comercial para empresas de cosméticos. A proposta é organizar, num único sistema, os fluxos que sustentam uma operação comercial: empresas, clientes, catálogo, estoque, pedidos e recebíveis.
+
+O projeto está dividido em duas partes: uma API em Python e FastAPI, responsável pela base do backend, e uma aplicação web em React e TypeScript. A documentação acompanha o produto desde o domínio e os requisitos até a arquitetura e o roadmap, mantendo separado o que já foi implementado do que ainda está especificado.
 
 <div align="center">
   <table>
@@ -58,7 +66,7 @@ MVP de gestão comercial para empresas de cosméticos, dividido em uma API e uma
   </table>
 </div>
 
-O escopo documentado inclui empresas, clientes, catálogo, estoque, pedidos e recebíveis. O [roadmap](https://github.com/lc-curto/distribution-hub-api/blob/main/docs/learning-roadmap.md) registra a sequência de desenvolvimento e diferencia funcionalidades implementadas das que ainda estão especificadas.
+O estado atual começa de forma intencionalmente pequena: a API responde a `GET /health`, possui teste automatizado e tem PostgreSQL configurado para desenvolvimento local; o frontend está em formato de scaffold. O [roadmap](https://github.com/lc-curto/distribution-hub-api/blob/main/docs/learning-roadmap.md) registra a sequência de desenvolvimento, começando pelo ambiente e avançando para banco de dados, identidade, empresas e clientes.
 
 ## PROJETOS
 
