@@ -1,40 +1,27 @@
 <p align="center">
-  <img src="./tech-banner-en.svg" alt="Lucas Curto — fullstack developer" />
+  <img src="./tech-banner-en.svg" alt="Lucas Curto — full-stack web developer" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/lc-curto?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-lc--curto-0b1020?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub lc-curto" /></a>
+  <a href="https://lc-curto.github.io/Portifolio/">Portefólio</a> ·
+  <a href="https://github.com/lc-curto?tab=repositories">GitHub</a> ·
+  <a href="mailto:lucas.scurto@gmail.com">Email</a>
 </p>
 
-## FULLSTACK DEVELOPER
+## FULL-STACK WEB DEVELOPER
 
 Interfaces on the surface. APIs in the structure. Data at the base.
 
-I work on both ends of development: I build the interface, structure the backend and connect the data into systems that can be run and evolved.
+I build web projects across the frontend and backend, and I am developing my skills through practical work and formal training. I also run a cosmetics distribution company; that experience inspired my current project.
 
-I also run a cosmetics distribution company. That's where my current project comes from: I'm building the management software I'd like to have in day-to-day operations.
+## CURRENT PROJECT — COSMETICS HUB
 
-## CURRENT PROJECT / COSMETICS HUB
+**Cosmetics Hub** is a commercial-management MVP for cosmetics businesses. Its scope includes companies, customers, catalog, inventory, orders, and receivables. The project is split into a Python/FastAPI API and a React/TypeScript web application.
 
-**Cosmetics Hub** is a commercial management MVP for cosmetics companies. The goal is to bring the flows behind a commercial operation into a single system: companies, customers, catalog, inventory, orders and receivables.
+- **[API](https://github.com/lc-curto/distribution-hub-api):** working foundation with a health endpoint, automated tests, and PostgreSQL configured for local development.
+- **[Web app](https://github.com/lc-curto/distribution-hub-web):** initial React and TypeScript scaffold.
 
-The project is split in two: a Python and FastAPI API that provides the backend foundation, and a React and TypeScript web app. The documentation follows the product from domain and requirements through to architecture and roadmap, keeping what is already implemented clearly separate from what is still only specified.
-
-### [distribution-hub-api](https://github.com/lc-curto/distribution-hub-api)
-
-`GET /health` available · automated test · PostgreSQL configured for local development
-
-<img src="https://img.shields.io/badge/STATUS-WORKING%20BASE-22c55e?style=flat-square&labelColor=0b1020" alt="Status: working base" />
-
-### [distribution-hub-web](https://github.com/lc-curto/distribution-hub-web)
-
-React + TypeScript · separate frontend · initial scaffold
-
-<img src="https://img.shields.io/badge/STATUS-SCAFFOLD-f59e0b?style=flat-square&labelColor=0b1020" alt="Status: scaffold" />
-
-The current state is intentionally small. The [roadmap](https://github.com/lc-curto/distribution-hub-api/blob/main/docs/learning-roadmap.md) lays out the development sequence, starting with the environment and moving on to database, identity, companies and customers.
-
-<sub>Status last updated: October 2026</sub>
+The [learning roadmap](https://github.com/lc-curto/distribution-hub-api/blob/main/docs/learning-roadmap.md) tracks the next development steps. Implemented features and planned work are documented separately.
 
 ## STACK
 
@@ -42,12 +29,14 @@ The current state is intentionally small. The [roadmap](https://github.com/lc-cu
   <img src="https://skillicons.dev/icons?i=python,fastapi,typescript,react,html,css,postgresql,docker,git,github,vscode&perline=11" alt="Python, FastAPI, TypeScript, React, HTML, CSS, PostgreSQL, Docker, Git, GitHub and VS Code" />
 </div>
 
-## EDUCATION
+## ABOUT
 
-Training in software development with a focus on fullstack web: algorithms, object-oriented programming, SQL and NoSQL databases, frontend and backend development, frameworks, quality assurance, design patterns, UML, and web and mobile projects.
+My training covers software development, algorithms, object-oriented programming, SQL and NoSQL databases, frontend and backend development, software quality, design patterns, UML, and web and mobile projects.
+
+## EM PORTUGUÊS
+
+Sou o Lucas, desenvolvedor de software em formação, com foco em desenvolvimento web full-stack. Estou a aplicar o que aprendo em projetos práticos, incluindo o **Cosmetics Hub**, uma aplicação de gestão comercial inspirada na minha experiência no setor da distribuição de cosméticos. Consulte o [portefólio](https://lc-curto.github.io/Portifolio/) para ver os projetos e entrar em contacto.
 
 ## CONTACT
 
-<p>
-  <a href="mailto:lucas.scurto@gmail.com"><img src="https://img.shields.io/badge/EMAIL-lucas.scurto@gmail.com-0b1020?style=for-the-badge&logo=gmail&logoColor=22d3ee" alt="Send an email" /></a>
-</p>
+[Email](mailto:lucas.scurto@gmail.com) · [LinkedIn](https://www.linkedin.com/in/lucas-curto-779a692b9/) · [Portfolio](https://lc-curto.github.io/Portifolio/)
