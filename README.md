@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://lc-curto.github.io/Portifolio/">Portefólio</a> ·
-  <a href="https://github.com/lc-curto?tab=repositories">GitHub</a> ·
   <a href="mailto:lucas.scurto@gmail.com">Email</a>
 </p>
 
